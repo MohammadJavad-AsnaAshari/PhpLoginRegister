@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+button {
+    margin: 5px;
+    font-size: 18px;
+}
+
+body {
+    background: black;
+}
+
+h3 {
+    font-size: 22px;
+    font-family: "Source Code Pro ExtraLight";
+    color: white;
+}
